@@ -223,10 +223,10 @@ key X {
 
 key Y {
     label:                              'Y'
-    number:                             '9'
+    number:                             '6'
     base:                               'y'
     shift, capslock:                    'Y'
-    alt:                                ','
+    alt:                                '6'
     shift+alt, capslock+alt:            '\u00a1'
 }
 
